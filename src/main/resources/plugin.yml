@@ -1,0 +1,4 @@
+name: Compass
+version: @version@
+main: org.slackow.compass.Compass
+api-version: 1.16
